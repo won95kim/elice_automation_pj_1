@@ -1,0 +1,7 @@
+# .pyc는 파이썬이 자동으로 생성하는 캐시 파일 > 삭제해도 됨
+__pycache__/
+*.pyc
+config.py
+reports/
+account.json
+.env
